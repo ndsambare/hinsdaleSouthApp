@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "98445FA613AC3F05237EBDB40E87236DC90A1F16",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0C67662E2A10F70EBE4DA3BBC4540BD51EFE1E1B" : 0,
+    "98445FA613AC3F05237EBDB40E87236DC90A1F16" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C495FE34-8F66-4C36-826D-F78F57732118",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0C67662E2A10F70EBE4DA3BBC4540BD51EFE1E1B" : "hinsdale-south-high-school-app\/RSBarcodes_Swift\/",
+    "98445FA613AC3F05237EBDB40E87236DC90A1F16" : "hinsdale-south-high-school-app\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Hinsdale South High School App",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Hinsdale South High School App.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yeahdongcn\/RSBarcodes_Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0C67662E2A10F70EBE4DA3BBC4540BD51EFE1E1B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:hinsdalesouthapp21\/hinsdale-south-high-school-app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "98445FA613AC3F05237EBDB40E87236DC90A1F16"
+    }
+  ]
+}

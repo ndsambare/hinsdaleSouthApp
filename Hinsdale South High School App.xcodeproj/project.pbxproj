@@ -1,0 +1,494 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		473B6DC81B67D21700EC0473 /* VirtualIDViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 473B6DC71B67D21700EC0473 /* VirtualIDViewController.swift */; };
+		474B51D11B5E9BF300F7D580 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 474B51D01B5E9BF300F7D580 /* AppDelegate.swift */; };
+		474B51D31B5E9BF300F7D580 /* HomepageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 474B51D21B5E9BF300F7D580 /* HomepageViewController.swift */; };
+		474B51D81B5E9BF300F7D580 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 474B51D61B5E9BF300F7D580 /* Main.storyboard */; };
+		474B51DA1B5E9BF300F7D580 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 474B51D91B5E9BF300F7D580 /* Images.xcassets */; };
+		47832A3A1B695E330001B804 /* GradesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47832A391B695E330001B804 /* GradesViewController.swift */; };
+		47946A7B1DF5104D006779B5 /* FinalsCalcViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47946A7A1DF5104D006779B5 /* FinalsCalcViewController.swift */; };
+		47DB7F7B1C729F46007C11AA /* BarcodeReaderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47DB7F7A1C729F46007C11AA /* BarcodeReaderViewController.swift */; };
+		47DB7F7D1C729FF3007C11AA /* BarcodeDisplayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47DB7F7C1C729FF3007C11AA /* BarcodeDisplayViewController.swift */; };
+		540B95DA1C3389390079C94A /* AnnouncementsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 540B95D81C3389390079C94A /* AnnouncementsViewController.swift */; };
+		540B95DD1C3389B50079C94A /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 540B95DC1C3389B50079C94A /* DetailViewController.swift */; };
+		540B95E61C339EF60079C94A /* TFHpple.m in Sources */ = {isa = PBXBuildFile; fileRef = 540B95E11C339EF60079C94A /* TFHpple.m */; };
+		540B95E71C339EF60079C94A /* TFHppleElement.m in Sources */ = {isa = PBXBuildFile; fileRef = 540B95E31C339EF60079C94A /* TFHppleElement.m */; };
+		540B95E81C339EF60079C94A /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = 540B95E51C339EF60079C94A /* XPathQuery.m */; };
+		540B95EA1C339F2B0079C94A /* libxml2.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 540B95E91C339F2B0079C94A /* libxml2.tbd */; };
+		540B961D1C362F2B0079C94A /* Teacher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 540B961C1C362F2B0079C94A /* Teacher.swift */; };
+		540B961F1C3987660079C94A /* UINavigationItemExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 540B961E1C3987660079C94A /* UINavigationItemExtension.swift */; };
+		544A6DE61CA773F00010B765 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 544A6DE51CA773F00010B765 /* CustomButton.swift */; };
+		5468C7E01B73B27A0003D81F /* DirectoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5468C7DF1B73B27A0003D81F /* DirectoryViewController.swift */; };
+		547052FA1C49F5980047C8A6 /* LinkDisplayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 547052F91C49F5980047C8A6 /* LinkDisplayViewController.swift */; };
+		547AC9141C7A71380002FD12 /* RSBarcodes.framework in Copy Frameworks */ = {isa = PBXBuildFile; fileRef = 547AC9101C7A71030002FD12 /* RSBarcodes.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		548470D91C67AC7800A4B260 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 548470D81C67AC7800A4B260 /* MainViewController.swift */; };
+		5486DFB71BE582DB0005193C /* LinksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5486DFB61BE582DB0005193C /* LinksViewController.swift */; };
+		54A70C5E1B771D6C00E77D67 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 54A70C5D1B771D6C00E77D67 /* Default-568h@2x.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		547AC90F1C7A71030002FD12 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 547AC90B1C7A71030002FD12 /* RSBarcodes.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = D08336371A202E81004EE128;
+			remoteInfo = RSBarcodes;
+		};
+		547AC9111C7A71210002FD12 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 547AC90B1C7A71030002FD12 /* RSBarcodes.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = D08336361A202E81004EE128;
+			remoteInfo = RSBarcodes;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		547AC9131C7A712A0002FD12 /* Copy Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				547AC9141C7A71380002FD12 /* RSBarcodes.framework in Copy Frameworks */,
+			);
+			name = "Copy Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		473B6DC71B67D21700EC0473 /* VirtualIDViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = VirtualIDViewController.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		474B51CB1B5E9BF300F7D580 /* HSHS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HSHS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		474B51CF1B5E9BF300F7D580 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		474B51D01B5E9BF300F7D580 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		474B51D21B5E9BF300F7D580 /* HomepageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = HomepageViewController.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		474B51D71B5E9BF300F7D580 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		474B51D91B5E9BF300F7D580 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		47832A391B695E330001B804 /* GradesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GradesViewController.swift; sourceTree = "<group>"; };
+		47946A7A1DF5104D006779B5 /* FinalsCalcViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FinalsCalcViewController.swift; sourceTree = "<group>"; };
+		47DB7F7A1C729F46007C11AA /* BarcodeReaderViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BarcodeReaderViewController.swift; sourceTree = "<group>"; };
+		47DB7F7C1C729FF3007C11AA /* BarcodeDisplayViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BarcodeDisplayViewController.swift; sourceTree = "<group>"; };
+		540B95D81C3389390079C94A /* AnnouncementsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnnouncementsViewController.swift; sourceTree = "<group>"; };
+		540B95DC1C3389B50079C94A /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		540B95DF1C339EF60079C94A /* Hinsdale South High School App-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Hinsdale South High School App-Bridging-Header.h"; sourceTree = "<group>"; };
+		540B95E01C339EF60079C94A /* TFHpple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFHpple.h; sourceTree = "<group>"; };
+		540B95E11C339EF60079C94A /* TFHpple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHpple.m; sourceTree = "<group>"; };
+		540B95E21C339EF60079C94A /* TFHppleElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFHppleElement.h; sourceTree = "<group>"; };
+		540B95E31C339EF60079C94A /* TFHppleElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHppleElement.m; sourceTree = "<group>"; };
+		540B95E41C339EF60079C94A /* XPathQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XPathQuery.h; sourceTree = "<group>"; };
+		540B95E51C339EF60079C94A /* XPathQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XPathQuery.m; sourceTree = "<group>"; };
+		540B95E91C339F2B0079C94A /* libxml2.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libxml2.tbd; path = usr/lib/libxml2.tbd; sourceTree = SDKROOT; };
+		540B961C1C362F2B0079C94A /* Teacher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Teacher.swift; sourceTree = "<group>"; };
+		540B961E1C3987660079C94A /* UINavigationItemExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UINavigationItemExtension.swift; sourceTree = "<group>"; };
+		544A6DE51CA773F00010B765 /* CustomButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		5468C7DF1B73B27A0003D81F /* DirectoryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = DirectoryViewController.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		547052F91C49F5980047C8A6 /* LinkDisplayViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LinkDisplayViewController.swift; sourceTree = "<group>"; };
+		547AC90B1C7A71030002FD12 /* RSBarcodes.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RSBarcodes.xcodeproj; path = RSBarcodes_Swift/RSBarcodes.xcodeproj; sourceTree = "<group>"; };
+		548470D81C67AC7800A4B260 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		5486DFB61BE582DB0005193C /* LinksViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LinksViewController.swift; sourceTree = "<group>"; };
+		54A70C5D1B771D6C00E77D67 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "../Default-568h@2x.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		474B51C81B5E9BF300F7D580 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				540B95EA1C339F2B0079C94A /* libxml2.tbd in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		474B51C21B5E9BF300F7D580 = {
+			isa = PBXGroup;
+			children = (
+				547AC90B1C7A71030002FD12 /* RSBarcodes.xcodeproj */,
+				474B51CD1B5E9BF300F7D580 /* Hinsdale South High School App */,
+				474B51CC1B5E9BF300F7D580 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		474B51CC1B5E9BF300F7D580 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				474B51CB1B5E9BF300F7D580 /* HSHS.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		474B51CD1B5E9BF300F7D580 /* Hinsdale South High School App */ = {
+			isa = PBXGroup;
+			children = (
+				474B51D01B5E9BF300F7D580 /* AppDelegate.swift */,
+				474B51D21B5E9BF300F7D580 /* HomepageViewController.swift */,
+				47832A391B695E330001B804 /* GradesViewController.swift */,
+				5468C7DF1B73B27A0003D81F /* DirectoryViewController.swift */,
+				540B95DC1C3389B50079C94A /* DetailViewController.swift */,
+				473B6DC71B67D21700EC0473 /* VirtualIDViewController.swift */,
+				5486DFB61BE582DB0005193C /* LinksViewController.swift */,
+				547052F91C49F5980047C8A6 /* LinkDisplayViewController.swift */,
+				540B95D81C3389390079C94A /* AnnouncementsViewController.swift */,
+				540B961C1C362F2B0079C94A /* Teacher.swift */,
+				47946A7A1DF5104D006779B5 /* FinalsCalcViewController.swift */,
+				540B961E1C3987660079C94A /* UINavigationItemExtension.swift */,
+				548470D81C67AC7800A4B260 /* MainViewController.swift */,
+				47DB7F7A1C729F46007C11AA /* BarcodeReaderViewController.swift */,
+				47DB7F7C1C729FF3007C11AA /* BarcodeDisplayViewController.swift */,
+				544A6DE51CA773F00010B765 /* CustomButton.swift */,
+				540B95DE1C339EDB0079C94A /* HTML Parsing */,
+				474B51D61B5E9BF300F7D580 /* Main.storyboard */,
+				474B51D91B5E9BF300F7D580 /* Images.xcassets */,
+				474B51CE1B5E9BF300F7D580 /* Supporting Files */,
+			);
+			path = "Hinsdale South High School App";
+			sourceTree = "<group>";
+		};
+		474B51CE1B5E9BF300F7D580 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				54A70C5D1B771D6C00E77D67 /* Default-568h@2x.png */,
+				474B51CF1B5E9BF300F7D580 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		540B95DE1C339EDB0079C94A /* HTML Parsing */ = {
+			isa = PBXGroup;
+			children = (
+				540B95E01C339EF60079C94A /* TFHpple.h */,
+				540B95E11C339EF60079C94A /* TFHpple.m */,
+				540B95E21C339EF60079C94A /* TFHppleElement.h */,
+				540B95E31C339EF60079C94A /* TFHppleElement.m */,
+				540B95E41C339EF60079C94A /* XPathQuery.h */,
+				540B95E51C339EF60079C94A /* XPathQuery.m */,
+				540B95DF1C339EF60079C94A /* Hinsdale South High School App-Bridging-Header.h */,
+				540B95E91C339F2B0079C94A /* libxml2.tbd */,
+			);
+			name = "HTML Parsing";
+			sourceTree = "<group>";
+		};
+		547AC90C1C7A71030002FD12 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				547AC9101C7A71030002FD12 /* RSBarcodes.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		474B51CA1B5E9BF300F7D580 /* Hinsdale South High School App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 474B51EC1B5E9BF300F7D580 /* Build configuration list for PBXNativeTarget "Hinsdale South High School App" */;
+			buildPhases = (
+				474B51C71B5E9BF300F7D580 /* Sources */,
+				474B51C81B5E9BF300F7D580 /* Frameworks */,
+				474B51C91B5E9BF300F7D580 /* Resources */,
+				547AC9131C7A712A0002FD12 /* Copy Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				547AC9121C7A71210002FD12 /* PBXTargetDependency */,
+			);
+			name = "Hinsdale South High School App";
+			productName = "Hinsdale South High School App";
+			productReference = 474B51CB1B5E9BF300F7D580 /* HSHS.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		474B51C31B5E9BF300F7D580 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = "Hornet App Development";
+				TargetAttributes = {
+					474B51CA1B5E9BF300F7D580 = {
+						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = 6M8Q7ZJPZC;
+						LastSwiftMigration = 0920;
+					};
+				};
+			};
+			buildConfigurationList = 474B51C61B5E9BF300F7D580 /* Build configuration list for PBXProject "Hinsdale South High School App" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 474B51C21B5E9BF300F7D580;
+			productRefGroup = 474B51CC1B5E9BF300F7D580 /* Products */;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 547AC90C1C7A71030002FD12 /* Products */;
+					ProjectRef = 547AC90B1C7A71030002FD12 /* RSBarcodes.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				474B51CA1B5E9BF300F7D580 /* Hinsdale South High School App */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		547AC9101C7A71030002FD12 /* RSBarcodes.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = RSBarcodes.framework;
+			remoteRef = 547AC90F1C7A71030002FD12 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXResourcesBuildPhase section */
+		474B51C91B5E9BF300F7D580 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				474B51D81B5E9BF300F7D580 /* Main.storyboard in Resources */,
+				474B51DA1B5E9BF300F7D580 /* Images.xcassets in Resources */,
+				54A70C5E1B771D6C00E77D67 /* Default-568h@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		474B51C71B5E9BF300F7D580 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				540B95E71C339EF60079C94A /* TFHppleElement.m in Sources */,
+				47832A3A1B695E330001B804 /* GradesViewController.swift in Sources */,
+				474B51D11B5E9BF300F7D580 /* AppDelegate.swift in Sources */,
+				540B95DA1C3389390079C94A /* AnnouncementsViewController.swift in Sources */,
+				5468C7E01B73B27A0003D81F /* DirectoryViewController.swift in Sources */,
+				474B51D31B5E9BF300F7D580 /* HomepageViewController.swift in Sources */,
+				540B95E81C339EF60079C94A /* XPathQuery.m in Sources */,
+				547052FA1C49F5980047C8A6 /* LinkDisplayViewController.swift in Sources */,
+				540B961F1C3987660079C94A /* UINavigationItemExtension.swift in Sources */,
+				548470D91C67AC7800A4B260 /* MainViewController.swift in Sources */,
+				47DB7F7B1C729F46007C11AA /* BarcodeReaderViewController.swift in Sources */,
+				47DB7F7D1C729FF3007C11AA /* BarcodeDisplayViewController.swift in Sources */,
+				540B95DD1C3389B50079C94A /* DetailViewController.swift in Sources */,
+				47946A7B1DF5104D006779B5 /* FinalsCalcViewController.swift in Sources */,
+				5486DFB71BE582DB0005193C /* LinksViewController.swift in Sources */,
+				540B95E61C339EF60079C94A /* TFHpple.m in Sources */,
+				540B961D1C362F2B0079C94A /* Teacher.swift in Sources */,
+				544A6DE61CA773F00010B765 /* CustomButton.swift in Sources */,
+				473B6DC81B67D21700EC0473 /* VirtualIDViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		547AC9121C7A71210002FD12 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = RSBarcodes;
+			targetProxy = 547AC9111C7A71210002FD12 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		474B51D61B5E9BF300F7D580 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				474B51D71B5E9BF300F7D580 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		474B51EA1B5E9BF300F7D580 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
+			};
+			name = Debug;
+		};
+		474B51EB1B5E9BF300F7D580 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		474B51ED1B5E9BF300F7D580 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 6M8Q7ZJPZC;
+				HEADER_SEARCH_PATHS = "$(SDKROOT)/usr/include/libxml2";
+				INFOPLIST_FILE = "Hinsdale South High School App/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.HornetApp.HSHS;
+				PRODUCT_NAME = HSHS;
+				PROVISIONING_PROFILE = "269ea5db-cd73-4ab8-9c55-e629b914134c";
+				PROVISIONING_PROFILE_SPECIFIER = "Hinsdale South Development Profile";
+				SWIFT_OBJC_BRIDGING_HEADER = "Hinsdale South High School App/Hinsdale South High School App-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
+				SWIFT_VERSION = 4.0;
+			};
+			name = Debug;
+		};
+		474B51EE1B5E9BF300F7D580 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				DEVELOPMENT_TEAM = 6M8Q7ZJPZC;
+				HEADER_SEARCH_PATHS = "$(SDKROOT)/usr/include/libxml2";
+				INFOPLIST_FILE = "Hinsdale South High School App/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.HornetApp.HSHS;
+				PRODUCT_NAME = HSHS;
+				PROVISIONING_PROFILE = "4764c431-a68f-4c21-9dde-8da171ba1881";
+				PROVISIONING_PROFILE_SPECIFIER = "Hinsdale South Distribution Profile";
+				SWIFT_OBJC_BRIDGING_HEADER = "Hinsdale South High School App/Hinsdale South High School App-Bridging-Header.h";
+				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
+				SWIFT_VERSION = 4.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		474B51C61B5E9BF300F7D580 /* Build configuration list for PBXProject "Hinsdale South High School App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				474B51EA1B5E9BF300F7D580 /* Debug */,
+				474B51EB1B5E9BF300F7D580 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		474B51EC1B5E9BF300F7D580 /* Build configuration list for PBXNativeTarget "Hinsdale South High School App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				474B51ED1B5E9BF300F7D580 /* Debug */,
+				474B51EE1B5E9BF300F7D580 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 474B51C31B5E9BF300F7D580 /* Project object */;
+}
